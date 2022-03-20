@@ -1,1 +1,14 @@
-
+一.
+1.学习了运算符+,-,*,/,^.*,./等；
+2.矩阵及其运算。一些特殊矩阵，如eye(n),diag(vector)等；
+3.矩阵的索引。如A([1 2; 3 4])，A([1 3], [1 2])；
+4.操作矩阵的函数：max,min,mean,sort,size,find;
+5.一些keyword，如Inf,eps,NaN;
+二.
+1.流程控制语句
+if, elseif, else
+switch, case, otherwise	
+while,for	
+break,continue,end,pause,return
+2.逻辑运算符
+3.函数，内置的函数参数，以函数句柄形式定义函数
